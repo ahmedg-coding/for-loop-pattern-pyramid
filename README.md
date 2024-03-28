@@ -27,16 +27,18 @@ Once you've installed the program, follow these steps to use it:
 
 
 ## Expected Outcome
-*        
-**        
-***      
-****      
-*****      
-****      
-***      
-**      
-*      
-
+```
+*
+**
+***
+****
+*****
+****
+***
+**
+*
+```
+     
 
 ## Author
 Ahmed G.
